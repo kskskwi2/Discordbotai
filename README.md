@@ -19,7 +19,7 @@ gpt 를 이용해 제작한 디스코드 올라마 봇
 
 start.bat 를 실행시켜주시고
 리눅스는(비권장 테스트안해봄)
-wget http://kskskwi1.xyz/js/web/start.sh 으로 .sh 파일을 설치후 실행권한을 주고 실행하세요
+```wget http://kskskwi1.xyz/js/web/start.sh``` 으로 .sh 파일을 설치후 실행권한을 주고 실행하세요
 
 그럼 돌아갑니다 아마도
 
