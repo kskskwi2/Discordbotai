@@ -7,7 +7,7 @@ gpt 를 이용해 제작한 디스코드 올라마 봇
 일단 먼저 node js 를 설치해야하는데 그건 당연히 알거라 믿습니다
 
 모튤
-npm install discord.js ollama dotenv axios better-sqlite3 systeminformation 을 cmd 에입력해서 설치하세요
+'''npm install discord.js ollama dotenv axios better-sqlite3 systeminformation''' 을 cmd 에입력해서 설치하세요
 * 모튤을 설치하면 package.json 이생기는데 "type": "module",를 추가시켜야합니다 (검색하세요)
 
 
